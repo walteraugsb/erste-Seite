@@ -1,3 +1,3 @@
 # erste-Seite
 erste Seite die klappt
-[[/images/IMG_0098.geaendert.jpg]]
+<img src="images/IMG_0098.geaendert.JPG">
